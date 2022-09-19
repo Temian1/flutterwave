@@ -1,5 +1,5 @@
 {
-    "name": "Flutterwave/laravelrave",
+    "name": "kikis-flutterwave/rave",
     "description": "A Laravel 9 Package for Flutterwave Rave",
     "keywords": ["php","github", "laravel","Open Source","payments", "kingflamez", "Flutterwave Rave", "Flutterwave", "rave", "ravepay.co","laravel 5"],
     "license": "MIT",
