@@ -1,4 +1,4 @@
-# Flutterwave 🦄🦄 (Laravel 5,7,8 Package)
+# Flutterwave 🦄🦄 (Laravel 5,7,8, 9 Package)
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -12,7 +12,7 @@
 
 ## Documentation
 
- A friendly documentation can be found [here](https://laravelrave.netlify.com/)
+
 
 
 ## Credits
