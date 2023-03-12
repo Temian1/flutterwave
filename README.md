@@ -1,4 +1,4 @@
-# Flutterwave 🦄🦄 (Laravel 5,7,8, 9 Package)
+# Flutterwave 🦄🦄 (Laravel 5,7,8, 9, 10 Package)
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -17,18 +17,7 @@
 
 ## Credits
 
-- [Oluwole Adebiyi (Flamez)][link-author]
-- [Emmanuel Okeke](https://github.com/emmanix2002)
-- [Adebayo Mustafa](https://github.com/AdebsAlert)
-- [Tunde Aromire](https://github.com/toondaey)
-- [Ifunanya Ikemma](https://github.com/Iphytech)
-- [Abhishek Prakash](https://github.com/abhishek6262)
-- [Wallace Myem Aboiyar](https://github.com/wallacemyem)
-- [Chigozie Ekwonu](https://github.com/chygoz2)
-- [Tolulope Adekunte](https://github.com/adtrex)
-- [Ogaba Emmanuel](https://github.com/ElmageAce)
-- [Sofolahan Eniola (Nattive)](https://github.com/nattive)
-- [Christian Jombo](https://github.com/christianjombo)
+-
 
 ## Contributing
 Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities. I will appreciate that a lot. Also please add your name to the credits.
